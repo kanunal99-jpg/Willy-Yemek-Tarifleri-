@@ -1,0 +1,7 @@
+{
+  "name": "Willy Yemek Tarifi",
+  "description": "Malzemelerinize göre 5 farklı yapay zeka destekli detaylı yemek tarifi hazırlayan, diyet ve glutensiz seçenekli, dahili OTA güncelleme sistemine sahip gurme yemek uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
